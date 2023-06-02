@@ -81,7 +81,7 @@ int main(){
       
           for(int i = 0;i<3;i++){
               sleep((i + 3) % 4);
-              printf("child1: send message %d\n", i);
+              printf("child2: send message %d\n", i);
               write(p2[1], "i'm child2", MSGSIZE);
           }
      
