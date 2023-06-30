@@ -1,0 +1,10 @@
+SW1; banana; cherry;
+SW2; apple;
+SW3; apple; banana; cherry;
+SW4; banana;
+SW5; apple; banana;
+SW6; apple; cherry;
+SW7; cherry;
+SW8; apple; apple;
+SW9; banana; banana; cherry;
+SW10; apple; banana; apple;
